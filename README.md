@@ -1,2 +1,2 @@
 # hello-world
-Learning git
+Learning git. Now learn commit.
